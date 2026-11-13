@@ -6,3 +6,10 @@
 * [Lincoln Middle School](https://lms.pullmanschools.org/school-meals)
 * [Pullman High School](https://lms.pullmanschools.org/school-meals)
 * [Western Washington University](https://www.wwu.edu)
+
+# Research Intrests
+* Fishery science
+* Recirculating Aquaculture Systems
+* Hormones and reproductive effieceny
+* Development of energy effiecent feed
+* Promoting lower trophic diets in human populations
